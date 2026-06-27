@@ -110,4 +110,16 @@
 //     console.log(numbers[i]);   
 // }
 
+//object
+
+let customer = {
+    name:"sajani",
+    age : 21,
+    isAfterAL : false,
+    salary : 54300.0
+}
+
+console.log(customer);
+
+
 
